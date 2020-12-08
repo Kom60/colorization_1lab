@@ -12,3 +12,7 @@ pip3 install tensorflow,tensorflow_io
 
 
 python main.py --input (путь к расположению входных картинок) --output (путь к расположению выходных картинок)
+
+
+
+![alt text](test.png "Пример работы скрипта")
